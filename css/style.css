@@ -257,6 +257,11 @@ fieldset {
 .contact-details {
   font-size: 28px;
   letter-spacing: 2px;
+  padding-bottom: 20px;
+}
+
+.my-contact p {
+  margin-bottom: 5px;
 }
 
 /*  Tablet Mode */
